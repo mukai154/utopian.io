@@ -8,7 +8,7 @@ See the website in action [here:](https://utopian.io)
 <center><img src="https://steemitimages.com/DQmYgMbYHNtiNmA6TbSL34tNwaMvxsQu2o5zrDvnbDks8bY/image.png"/></center>
   
 ## Contributing to this Project
-1. Join webblenIO on Discord: https://discord.gg/5cxGQmt
+1. Join webblenIO on Discord: https://discord.gg/5cxGQmt or Telegram: https://t.me/joinchat/AAAAAEwPh5GOiHAZQ-QeJg
 2. Clone this repository locally on your computer. If you don't have `git` installed, simply pressing the "Download ZIP" button and unzipping the file should work.
 3. **Locally**, go to the `webpack/webpack-dev-server.js` file. Change the line that begins with `UTOPIAN_API` to this:
 ```javascript
