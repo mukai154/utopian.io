@@ -1,4 +1,5 @@
-This project was Forked from Utopian.io, make sure to checkout the platform in order to earn rewards for participating in the project.
+Webblen.io was Forked from Utopian.io, make sure to checkout the platform in order to earn rewards for participating in the project. Through integrating our existing applications (currently hidden but to be open-sourced soon), we leverage steem's block chain to incentivise community involvement.
+
 [Utopian.io](https://utopian.io) wants to reward Open Source contributors for their hard work. 
 Forked from https://github.com/busyorg/busy, Utopian uses the [STEEM Blockchain](https://steem.io) to reward contributors in cryptocurrency.
 
